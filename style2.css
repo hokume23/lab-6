@@ -1,0 +1,22 @@
+button{
+    padding:10px 20px ;
+    border: none;
+    border-radius: 5px;
+    margin: 10px;
+}
+.normal{
+    color: white;
+    background-color: rgba(17, 154, 196, 0.733);
+}
+.outline{
+    background-color: whitesmoke;
+    border: 2px solid blue;
+}
+.ugur{
+    background-color: greenyellow;
+    color: white;
+}
+.tehluke{
+    background-color: red;
+    color: white;
+}
